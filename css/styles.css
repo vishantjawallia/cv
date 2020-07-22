@@ -1,16 +1,97 @@
-body{background-color: #eeeeee;}
+body{background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+    url("../../media/examples/lizard.png");
+    
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
 h1{
-    color: #66BFBF;
+    
+    margin: 0 auto;
+  padding-top: 110px;
+  font-family: 'Sacramento', cursive;
+  font-size: 85px;
+  text-align: center;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-size: 70px;
 }
 h3{
-    color: #66BFBF;
+   
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-size: 70px;
+}
+h4{ font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-size: 70px;
+
 }
  hr{
-     background-color: white;
+     background-color:rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5);
     border-style: none;
     border-top-style: dotted;
-    border-color: grey;
+    border-color:brown;
     border-width: 10px;
      height: 1px;
      width: 6%;
  }
+
+
+
+
+
+ 
+
+
+
+
+.top-container{}
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.secondary{font-size: 39px;
+}
+.primary{font-size: 39px;
+}
+.cricket{font-size: 39px;
+    
+}
+.yoga{font-size: 39px;}
+.books{
+    font-size: 39px;
+}
+.people{font-size: 39px;}
+.hobbies{font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-size: 70px;
+
+}
+.Dates{
+    font-size: 30px;
+padding-left: 10px;}
+
+.works{font-size: 30px;
+    padding-left: 120px;
+}
+.star{padding-bottom: 10px;
+    font-size: 20px;}
+.skill{
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+.des{font-size: 50px;
+
+}
